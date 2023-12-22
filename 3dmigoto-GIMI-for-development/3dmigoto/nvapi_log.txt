@@ -1,0 +1,27 @@
+
+NVapi DLL starting init - v 1.3.16 -  Fri Dec 22 22:58:30 2023
+
+
+[Logging]
+  calls=1
+  separation=1
+  convergence=1
+[ConvergenceMap]
+[Device]
+[Stereo]
+  force_no_nvapi=0
+  force_stereo=0
+  automatic_mode=0
+  unlock_separation=0
+  unlock_convergence=0
+  surface_createmode=-1
+Fri Dec 22 22:58:30 2023
+ - NvAPI_Initialize called.
+Fri Dec 22 22:58:31 2023
+ - NvAPI_Initialize called.
+Fri Dec 22 22:58:31 2023
+ - NvAPI_D3D_GetCurrentSLIState called with device = 0000028AFBCC5690. Result = 0
+Fri Dec 22 22:58:31 2023
+ - NvAPI_Initialize called.
+Fri Dec 22 22:58:31 2023
+ - Stereo_CreateHandleFromIUnknown called with device = 0000028AFB4F6340. Result = -219
