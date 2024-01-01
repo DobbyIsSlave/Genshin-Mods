@@ -1,1 +1,5 @@
-*/__pycache__
+**/__pycache__
+**/d3d11_log.txt
+**/d3dx_user.ini
+**/nvapi_log.txt
+**/UnTracked

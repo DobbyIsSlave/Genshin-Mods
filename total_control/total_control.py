@@ -9,7 +9,7 @@ from image_button_utils import create_image_buttons
 form_class = uic.loadUiType("total_control.ui")[0]
 
 icon_path = "./icon"
-mods_path = "C:/Users/Karina/Documents/Work/genshine/Genshin Mods/3dmigoto-GIMI-for-development/3dmigoto/Mods"
+mods_path = "C:/Users/Karina/Documents/Work/genshine/Genshin Mods/3dmigoto-GIMI-for-development/3dmigoto/Mods/UnTracked"
 
 class MainWindow(QMainWindow, form_class):
     def __init__(self):
